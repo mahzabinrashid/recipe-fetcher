@@ -1,3 +1,7 @@
+This is a React app which displays recipes of dishes which can be made from ingredients users search for.
+It gets data from an API call using the Javascript fetch API.
+It makes API requests only after the search button is clicked by introducing a new state to prevent DDOS attacks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
